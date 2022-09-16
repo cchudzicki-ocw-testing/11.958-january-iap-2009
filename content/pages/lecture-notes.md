@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides general information on how to prepare a case, the
+  schedule of lecture topics, lecture slides, and study questions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

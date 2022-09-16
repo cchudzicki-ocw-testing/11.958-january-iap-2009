@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, topics not covered, the workload, intended audience, grading,
+  assignments, course formation, and preparation and participation policies.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
